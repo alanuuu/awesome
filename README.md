@@ -48,7 +48,7 @@
 
 - [create-react-library](https://github.com/transitive-bullshit/create-react-library) 构建react组件库脚手架
 - [doc-scripts](https://github.com/janryWang/doc-scripts) React组件文档构建工具
-- [Egg React SSR/CSR 工程化](https://www.yuque.com/easy-team/egg-react)
+- [Egg React SSR/CSR 工程化](https://www.yuque.com/easy-team/egg-react) 基于egg、react搭建一个基础工程
 
 ## 博客
 
@@ -58,7 +58,7 @@
 - [Aitter](http://coderlt.coding.me/page/2/) 基本和广泛
 - [jspang](https://jspang.com/) 基础教学，有视频
 - [张鑫旭](https://www.zhangxinxu.com/) css大拿， 纯粹。 重点css与html
-- [编程 - 廖雪峰的官方网站](https://www.liaoxuefeng.com/)
+- [编程 - 廖雪峰的官方网站](https://www.liaoxuefeng.com/) git基础写的不错
 - [光强_上海](https://www.jianshu.com/u/023338566ca5) 偏实战、基础
 
 ## React
